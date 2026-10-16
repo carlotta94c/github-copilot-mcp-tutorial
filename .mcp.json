@@ -1,5 +1,13 @@
 {
   "mcpServers": {
+    "github": {
+             "type": "http",
+             "url": "https://api.githubcopilot.com/mcp/"
+          },
+    "store": {
+             "type": "http",
+             "url": "http://localhost:8420/mcp"
+          }
   },
   "inputs": []
 }
